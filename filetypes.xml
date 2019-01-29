@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="template" type="HTML" />
-      <mapping ext="java" type="HTML" />
-    </extensionMap>
-  </component>
-</application>
