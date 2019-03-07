@@ -1,0 +1,20 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.15.1" last-modified="1548715800000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="navigate&#10;backspace&#10;pro&#10;usage&#10;warning" />
+    <property name="TrendingPluginsSearchHistory" value="eslint" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/src/zacmatic/.eslintrc.json&#10;C:/Users/matsumoto/src/zacmatic" />
+    <property name="file.gist.reindex.count" value="1489" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

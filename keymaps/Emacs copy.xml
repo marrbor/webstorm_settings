@@ -2,75 +2,35 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift multiply" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift colon" />
   </action>
   <action id="BaseOnThisFunction" />
-  <action id="BraceOrQuoteOut" />
-  <action id="Dart.DartStyle">
-    <keyboard-shortcut first-keystroke="ctrl o" />
-  </action>
   <action id="DartTypeHierarchy.BaseOnThisType" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
-  <action id="EditorChooseLookupItemReplace" />
-  <action id="EditorIndentSelection" />
-  <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="page_up" />
-    <keyboard-shortcut first-keystroke="alt v" />
-    <keyboard-shortcut first-keystroke="ctrl t" />
-  </action>
-  <action id="EditorSplitLine" />
-  <action id="EditorTab">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="ctrl end" />
     <keyboard-shortcut first-keystroke="shift alt period" />
-    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift greater" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift period" />
   </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="ctrl home" />
     <keyboard-shortcut first-keystroke="shift alt comma" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="comma" />
-    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift less" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift comma" />
   </action>
-  <action id="EmacsStyleIndent" />
-  <action id="ExpandLiveTemplateByTab" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift alt s" />
-    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift underscore" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift back_slash" />
   </action>
-  <action id="Generate.Missing.Members.ES6" />
-  <action id="Generate.Missing.Members.TypeScript" />
-  <action id="GotoBookmark6" />
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="alt g" />
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl j" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift at" />
   </action>
-  <action id="ImplementMethods" />
-  <action id="NextParameter" />
-  <action id="NextTemplateParameter" />
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="enter" />
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl i" />
-  </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="ctrl 6" />
-  </action>
-  <action id="SearchEverywhere.CompleteCommand" />
-  <action id="SearchEverywhere.NextTab" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
-  <action id="Vcs.ReformatCommitMessage">
-    <keyboard-shortcut first-keystroke="ctrl i" />
-  </action>
-  <action id="Vcs.UpdateProject" />
 </keymap>
