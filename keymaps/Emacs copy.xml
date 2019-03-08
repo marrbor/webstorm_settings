@@ -27,9 +27,15 @@
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="shift back_slash" />
   </action>
+  <action id="Generate.Missing.Members.ES6" />
+  <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift at" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
