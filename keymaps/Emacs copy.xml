@@ -43,6 +43,7 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift at" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift back_quote" />
   </action>
   <action id="ImplementMethods" />
   <action id="NextParameter" />
