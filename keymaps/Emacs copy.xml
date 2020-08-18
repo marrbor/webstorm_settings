@@ -42,6 +42,10 @@
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoBookmark6" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="j" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift back_quote" />
@@ -67,6 +71,7 @@
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
   <action id="SelectVirtualTemplateElement" />
+  <action id="Terminal.CopySelectedText" />
   <action id="Terminal.SwitchFocusToEditor" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
